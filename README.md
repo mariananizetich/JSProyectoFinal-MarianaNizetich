@@ -1,4 +1,4 @@
-# EntregaCoder
+# Proyecto Final - Coderhouse
 
 Sitio web creado por Mariana Nizetich para el curso de desarrollo web de Coderhouse. El tema elegido es la ciudad de Trelew, Chubut (mi ciudad natal), y el objetivo es aplicar lo aprendido. El mismo está compuesto por cinco páginas:
 - Home
